@@ -1,0 +1,21 @@
++--------------------------------------------------------------------------+
+| [COMPASS: N  30  60  E  120]         [ROUND TIMER: 08:42]  [EXTRACT AVAIL] |
+|                                                                          |
+| (MINIMAP)                                      [BUFFER: 14/15 RAW]       |
+| +-------+                                      ISO 800  |  f/4.5  | 1/1200 |
+| |  N    |                                                                |
+| |  @ *  |                                      [SUBJECT LOCKED]          |
+| |       |                                      Species: Cervus-9 Alpha   |
+| +-------+                                      Behavior: Grazing [1.4x]  |
+|                                                                          |
+|                                                                          |
+|                                       +------------------------+         |
+|                                       |     [ ]  FOCUS RETICLE |         |
+|                                       |         (AUTOFOCUS OK) |         |
+|                                       +------------------------+         |
+|                                                                          |
+| [STAMINA / LENS SWAY BAR]                                                |
+| [====================----]                                               |
+|                                                                          |
+| [TAXI/DRONE STATUS: AWAITING EXTRACTION]       [ZOOM: 300mm TELEPHOTO]   |
++--------------------------------------------------------------------------+
