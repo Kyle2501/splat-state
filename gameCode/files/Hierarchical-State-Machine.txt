@@ -1,0 +1,18 @@
+               [ ENVIRONMENTAL STIMULI ]
+         (Sound Waves / Wind Vector / Thermal)
+                          │
+                          ▼
+             +-------------------------+
+             │   Perception Processor  │
+             +-------------------------+
+                  │               │
+        [Low Threat]               [High Threat / Disturbance]
+                  ▼               ▼
+         +-----------------+   +---------------------------------+
+         │ Foraging / Idle │   │ Alert / Tactical Investigation  │
+         +-----------------+   +---------------------------------+
+                  │               │
+         [Alpha Interaction]       ├─► [Flee / Stampede (Acoustic)]
+                  │               └─► [Territorial Aggression (Combat)]
+                  ▼
+          [Mating / Nesting]
