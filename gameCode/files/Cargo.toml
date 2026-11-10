@@ -1,0 +1,8 @@
+/glovebox-optics-engine
+├── Cargo.toml                # Workspace root
+├── crates/
+│   ├── optics_core/          # Pure math: DoF, FOV, raycasting, camera physics
+│   ├── render_pipeline/      # WebGL2 / Canvas2D viewfinder shader & composite pass
+│   ├── ui_hud/               # DOM-based telemetry overlays & minimap sync
+│   └── game_sim/             # Main loop, AI state machine integration, input queues
+└── web/                      # HTML/CSS shell (#game-canvas, #game-hud)
